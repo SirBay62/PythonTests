@@ -1,7 +1,7 @@
 import unittest
 
 from main import my_sort
-
+# тестирование функции сортировки
 
 class MySortTest(unittest.TestCase):
     # нужно отнаследоваться от этого класса, что бы заработала магия тестирования
